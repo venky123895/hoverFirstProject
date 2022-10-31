@@ -1,0 +1,256 @@
+.row1{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 25px;
+}
+.but1{
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+}
+.but1:hover{
+    background-color: green;
+    color: white;
+}
+.but2{
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+}
+.but2:hover{
+    background-color: blue;
+    color: white;
+}
+.but3{
+    background-color: white;
+    color: rgb(255,188,90);
+    border: 2px solid rgb(255,188,90);
+}
+.but3:hover{
+    background-color: rgb(255,188,90);
+    color: white;
+}
+.but4{
+    background-color: white;
+    color: rgb(250,180,175);
+    border: 2px solid rgb(250,180,175);
+}
+.but4:hover{
+    background-color: rgb(250,180,175);
+    color: white;
+}
+.but5{
+    background-color: white;
+    color: rgb(127,134,132);
+    border: 2px solid rgb(127,134,132);
+}
+.but5:hover{
+    background-color: rgb(127,134,132);
+    color: white;
+}
+
+.row2{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 25px;
+}
+.but11{
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+}
+.but11:hover{
+    background-color: green;
+    color: white;
+}
+.but22{
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+}
+.but22:hover{
+    background-color: blue;
+    color: white;
+}
+.but33{
+    background-color: white;
+    color: rgb(255,188,90);
+    border: 2px solid rgb(255,188,90);
+}
+.but33:hover{
+    background-color: rgb(255,188,90);
+    color: white;
+}
+.but44{
+    background-color: white;
+    color: rgb(250,180,175);
+    border: 2px solid rgb(250,180,175);
+}
+.but44:hover{
+    background-color: rgb(250,180,175);
+    color: white;
+}
+.but55{
+    background-color: white;
+    color: rgb(127,134,132);
+    border: 2px solid rgb(127,134,132);
+}
+.but55:hover{
+    background-color: rgb(127,134,132);
+    color: white;
+}
+.row3{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 25px;
+}
+.but111{
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+}
+.but111:hover{
+    background-color: green;
+    color: white;
+}
+.but222{
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+}
+.but222:hover{
+    background-color: blue;
+    color: white;
+}
+.but333{
+    background-color: white;
+    color: rgb(255,188,90);
+    border: 2px solid rgb(255,188,90);
+}
+.but333:hover{
+    background-color: rgb(255,188,90);
+    color: white;
+}
+.but444{
+    background-color: white;
+    color: rgb(250,180,175);
+    border: 2px solid rgb(250,180,175);
+}
+.but444:hover{
+    background-color: rgb(250,180,175);
+    color: white;
+}
+.but555{
+    background-color: white;
+    color: rgb(127,134,132);
+    border: 2px solid rgb(127,134,132);
+}
+.but555:hover{
+    background-color: rgb(127,134,132);
+    color: white;
+}
+.row4{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 25px;
+}
+.but1111{
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+}
+.but1111:hover{
+    background-color: green;
+    color: white;
+}
+.but2222{
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+}
+.but2222:hover{
+    background-color: blue;
+    color: white;
+}
+.but3333{
+    background-color: white;
+    color: rgb(255,188,90);
+    border: 2px solid rgb(255,188,90);
+}
+.but3333:hover{
+    background-color: rgb(255,188,90);
+    color: white;
+}
+.but4444{
+    background-color: white;
+    color: rgb(250,180,175);
+    border: 2px solid rgb(250,180,175);
+}
+.but4444:hover{
+    background-color: rgb(250,180,175);
+    color: white;
+}
+.but5555{
+    background-color: white;
+    color: rgb(127,134,132);
+    border: 2px solid rgb(127,134,132);
+}
+.but5555:hover{
+    background-color: rgb(127,134,132);
+    color: white;
+}
+.row5{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 25px;
+}
+.but11111{
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+}
+.but11111:hover{
+    background-color: green;
+    color: white;
+}
+.but22222{
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+}
+.but22222:hover{
+    background-color: blue;
+    color: white;
+}
+.but33333{
+    background-color: white;
+    color: rgb(255,188,90);
+    border: 2px solid rgb(255,188,90);
+}
+.but33333:hover{
+    background-color: rgb(255,188,90);
+    color: white;
+}
+.but44444{
+    background-color: white;
+    color: rgb(250,180,175);
+    border: 2px solid rgb(250,180,175);
+}
+.but44444:hover{
+    background-color: rgb(250,180,175);
+    color: white;
+}
+.but55555{
+    background-color: white;
+    color: rgb(127,134,132);
+    border: 2px solid rgb(127,134,132);
+}
+.but55555:hover{
+    background-color: rgb(127,134,132);
+    color: white;
+}
